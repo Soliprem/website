@@ -1,13 +1,16 @@
 ---
 title: "An analysis of the correlation between gun regulation and public safety in the United States of America"
 date: 2024-04-02T00:56:05+02:00
-toc: true
-author: Francesco Prem Solidoro, Michele Salvi
+draft: false
+slug: "multi-author"
+authors: 
+    - "michelesalvi"
 tags: ["Research", "Paper", "Statistics", "GunControl"]
 ---
 
-   *Abstract*--- 
-    The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, and constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state. This suggests that it's possible for legislation to have a positive effect on gun-related deaths.
+# Abstract
+
+The aim of this paper is to provde a summary analysis of the data regarding the effectiveness of gunrestriction policy in diminishing the numberof gun-related deaths. We do so by conducting an analysis of three different datasets, and by combining the data we gathered from them, and constructing a linear regression model. The constructed linear regression model shows a negative correlation between the gun-related death rate and the amount of legislation present within the state. This suggests that it's possible for legislation to have a positive effect on gun-related deaths.
 
 
 # Introduction

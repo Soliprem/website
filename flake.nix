@@ -1,5 +1,5 @@
 {
-    description = "devFlake for blowfish";
+    description = "devFlake for soliprem.github.io";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
@@ -13,6 +13,7 @@
       default = pkgs.mkShell {
         buildInputs = with pkgs; [
           nushell
+          hugo
         ];
         shellHook = ''
           export SHELL=${pkgs.nushell}/bin/nu
