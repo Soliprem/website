@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Soliprem"
 
 [params]
   displayName = "EN"
@@ -45,7 +45,7 @@ title = "Blowfish"
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
 #     { linkedin = "https://linkedin.com/in/username" },
-#     { mastodon = "https://mastodon.instance/@Soliprem" },
+    { mastodon = "https://mastodon.social/@Soliprem" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
 #     { orcid = "https://orcid.org/userid" },
