@@ -22,7 +22,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "/img/background.svg" # used as default for background images 
-defaultBackgroundImage = "Study-table.png" # used as default for background images 
+defaultBackgroundImage = "downscaled.png" # used as default for background images 
 defaultFeaturedImage = "/img/featured.svg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true

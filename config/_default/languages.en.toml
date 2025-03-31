@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Soliprem"
+# title = "Soliprem"
 
 [params]
   displayName = "EN"
